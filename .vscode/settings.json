@@ -1,3 +1,31 @@
 {
-    "liveServer.settings.port": 5502
+    "liveServer.settings.port": 5502,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "github.copilot.enable": false,
+    "editor.inlineCompletionsEnabled": true,
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "on",
+        "other": "on"
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.suggest.preview": false,
+    "editor.suggest.enabled": true,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showExpandedAbbreviation": "always",
+    "github.copilot.chat.enabled": false,
+    "github.copilot.inline.enable": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": false,
+        "editor.codeActionsOnSave": {},
+        "editor.suggest.enabled": false
+    },
+    "[html]": {
+        "editor.suggest.enabled": true
+    }
 }
