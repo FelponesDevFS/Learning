@@ -111,4 +111,3 @@
 //   return lista.filter((p) => p.estaVivo);
 //  }
 
-
